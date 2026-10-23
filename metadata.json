@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "Full-stack personal finance and expense tracker with SQLite persistence, dual-layer validation, and real-time summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
